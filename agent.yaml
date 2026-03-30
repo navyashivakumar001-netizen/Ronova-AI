@@ -1,0 +1,20 @@
+spec_version: "0.1.0"
+name: timeguard-x-agent
+version: 1.0.0
+description: "AI agent that simulates future consequences before decisions are made"
+
+model:
+  preferred: claude-sonnet-4-5
+
+skills:
+  - input-analyzer
+  - scenario-generator
+  - consequence-simulator
+  - risk-evaluator
+  - decision-advisor
+  - explanation-engine
+
+tags:
+  - ai
+  - decision-intelligence
+  - hackathon
