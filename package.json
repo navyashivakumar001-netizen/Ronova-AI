@@ -1,13 +1,15 @@
 {
   "type": "module",
   "dependencies": {
-    "gitclaw": "^..."
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "gitclaw": "^1.1.8",
+    "openai": "^6.33.0"
   },
   "name": "timeguard-agent",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

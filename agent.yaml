@@ -1,20 +1,18 @@
 spec_version: "0.1.0"
-name: timeguard-x-agent
+name: repoguard-ai
 version: 1.0.0
-description: "AI agent that simulates future consequences before decisions are made"
+description: "Analyzes GitHub repositories and predicts risks"
 
 model:
-  preferred: claude-sonnet-4-5
+  preferred: "openrouter:openai/gpt-4o-mini"
+
+runtime:
+  timeout: 30000
 
 skills:
-  - input-analyzer
-  - scenario-generator
-  - consequence-simulator
-  - risk-evaluator
-  - decision-advisor
-  - explanation-engine
+  - main_engine
+
+default_skill: main_engine
 
 tags:
-  - ai
-  - decision-intelligence
   - hackathon
