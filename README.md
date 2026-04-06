@@ -2,35 +2,63 @@
 
 
 
-Ronova AI is a pre-execution repository intelligence agent.
+\# 🚀 Ronova AI
 
 
 
-It analyzes GitHub repositories and provides:
-
-\- Evidence-based risk analysis
-
-\- Execution insights
-
-\- Security recommendations
+Ronova AI is a pre-execution repository intelligence agent that analyzes GitHub repositories and predicts risks before execution.
 
 
 
-\## 🔍 Features
-
-
-
-\- No code execution
+\## 🔥 Key Features
 
 \- No repository cloning
 
-\- Pure AI-based reasoning
+\- No code execution
 
-\- Clean, professional output
+\- Evidence-based analysis
+
+\- Clean cybersecurity insights
 
 
 
-\## ⚙️ How to Run
+\## ⚙️ Run Locally
+
+
+
+```bash
+
+npx gitclaw
+
+
+
+
+
+👉 This makes your repo look \*\*professional instantly\*\*
+
+
+
+\---
+
+
+
+\# 🚀 NEXT STEP (VERY IMPORTANT)
+
+
+
+Now your project is uploaded. Next:
+
+
+
+\---
+
+
+
+\## 🎯 STEP 1: Test Live Demo
+
+
+
+Run locally:
 
 
 

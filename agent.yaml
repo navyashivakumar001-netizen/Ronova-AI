@@ -1,18 +1,7 @@
-spec_version: "0.1.0"
-name: repoguard-ai
+name: ronova-ai
 version: 1.0.0
-description: "Analyzes GitHub repositories and predicts risks"
 
-model:
-  preferred: "openrouter:openai/gpt-4o-mini"
-
-runtime:
-  timeout: 30000
+model: openrouter:openai/gpt-4o-mini
 
 skills:
   - main_engine
-
-default_skill: main_engine
-
-tags:
-  - hackathon
